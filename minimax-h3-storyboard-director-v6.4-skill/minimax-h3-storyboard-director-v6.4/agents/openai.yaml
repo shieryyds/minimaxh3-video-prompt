@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 Storyboard Director V6.4"
+  short_description: "纯背景参考图 + 40字/6动作容量闸门 + Face-Master身份锁"
+  default_prompt: "Use $minimax-h3-storyboard-director-v6-4 to turn this script and references into an identity-stable MiniMax H3 workflow. Default to one unified V6.1 character-sheet prompt per raw character reference, apply the 15s limits of no more than 40 dialogue characters and 6 actions, then generate a character-free pure-background reference image from the approved target-video prompt content, and preserve all dialogue naturally."
